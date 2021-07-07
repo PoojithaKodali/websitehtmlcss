@@ -1,3 +1,3 @@
 # website
-### Link TO My Website
+### Link To My Website
 https://webpage.poojithakodali.repl.co
